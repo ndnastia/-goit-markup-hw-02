@@ -136,7 +136,6 @@ button {
 }
 
 .features-text {
-    font-weight: 400;
     font-size: 14px;
     line-height: 1.714;
     letter-spacing: 0.03em;
@@ -179,7 +178,6 @@ button {
 }
 
 .team-position {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.187;
     letter-spacing: 0.03em;
@@ -204,8 +202,7 @@ button {
 }
 
 .footer-address {
-    font-style: normal;
-    font-weight: 400;
+    font-style: normal;;
     font-size: 14px;
     line-height: 1.714;
     letter-spacing: 0.03em;
@@ -257,7 +254,6 @@ button {
 }
 
 .project {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.875;
     letter-spacing: 0.03em;
